@@ -10,5 +10,5 @@
  </ul>
 
 <li>  <a href="https://drive.google.com/file/d/1JZ3v55Nb6RIpgqWBiPcAMBCPgT0iP7Pn/view?usp=sharing"> Удаление товаров из корзины. </li> 
-<li>  <a href="https://drive.google.com/file/d/18uwy8mU75gkpCxAKwUZkFs-eGrDwwDdF/view?usp=sharing"> Замена сайта картинкой. </a>  </li> 
-<li>  
+<li>  <a href="https://drive.google.com/file/d/18uwy8mU75gkpCxAKwUZkFs-eGrDwwDdF/view?usp=sharing"> Замена сайта картинкой. </a>  
+</li> 
